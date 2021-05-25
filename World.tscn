@@ -69,7 +69,7 @@ position = Vector2( 86.0313, 887.875 )
 scale = Vector2( -0.936243, 9.21349 )
 
 [node name="MovingPlatform2" parent="Map" instance=ExtResource( 3 )]
-position = Vector2( 408.094, 646.387 )
+position = Vector2( 405.849, 647.51 )
 scale = Vector2( 3.56, 1 )
 speedX = 2.0
 scaleX = 35.0
